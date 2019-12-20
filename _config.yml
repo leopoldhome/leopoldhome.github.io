@@ -78,8 +78,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Sometimes it's hard to accept the truth because the lies sound so much better<br>"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Sometimes it's hard to accept the truth because the lies sound so much better<br>ok "
+sidebar-avatar: /img/avatar-leo-ny.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -134,3 +134,4 @@ friends: [
         href: "http://ingf.github.io/"
     }
 ]
+gems: [jekyll-paginate]
